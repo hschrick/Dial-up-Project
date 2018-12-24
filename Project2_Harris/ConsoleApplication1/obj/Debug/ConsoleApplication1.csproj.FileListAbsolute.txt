@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\Mac\Home\Desktop\Project2_DTS_Project\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
